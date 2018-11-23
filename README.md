@@ -1,2 +1,2 @@
 # jackieormes
-bio
+Biographical information about Jackie Ormes.
