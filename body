@@ -6,17 +6,18 @@ body, html {
   height: 100%
 }
 :root {
-  font-size: 17px;
+  
+ /*font-size: 17px;
    background-color: #699;
   color: white; 
  font-family: 'Montserrat', sans-serif;
-  background-image: url("https://imgur.com/lK97rdB");
+ */
  
+  background-image: url("https://imgur.com/lK97rdB");
+  
 /*
   background-image: url("https://i.pinimg.com/originals/c4/51/4a/c4514aa02d74a6209f2a2985b584da8d.jpg");
   */
-  
-  
 }
 
 #header1 {
