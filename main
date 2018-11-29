@@ -98,7 +98,7 @@ a {
   right: 25px;
 }
   
-#tribute-link {
+#tribute-info {
   font-size: 16px;
   background-color: #D46A6A;
   border-radius: 4px;
@@ -107,7 +107,7 @@ a {
   font-family: 'Cinzel', serif;
 }
 
-#tribute-info   {
+#timeline   {
   border-radius: 12px;
   padding: 20px;
   background-color: #A5C663;
@@ -164,10 +164,12 @@ a {
   
 </div>
 
+
 <br>
 
-<div id="overlay">
-     <div id="tribute-info">
+
+ <div id="timeline">
+ 
   <ul>1911 - Born <i>Zelda Mavin Jackson</ul>
   <ul> 1931 - Married Earl Clark Ormas.</ul>
   <ul> 1937 - Began her first comic strip<br> <i>Torchy Brown in Dixie to Harlem</i></ul>
@@ -176,15 +178,12 @@ a {
   <ul>1947 - Patti-Jo doll</ul>
   <ul>1950 - released <i>Torchy in <br> Heartbeats</i>, which ran for 4 years.</ul> 
   <ul>1985 - Dies in ??? </ul>
-       
-    </div>
-</div>
+  
+ </div>
 
-<div>
-
+ <div id="tribute-info">
  
     <a target="_blank" href="https://livestream.com/schomburgcenter/events/6759892" id="tribute-link">Tribute link here</a>
-    
 
  </div>   
  
