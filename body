@@ -147,18 +147,14 @@ a {
 <div id="img-div">
 
   <img id="jackie" src="https://static01.nyt.com/images/2008/03/30/books/wolk-600.jpg" alt=""></img>
+  <p id="img-caption">Jackie Ormes drawing at her desk</p> 
   <br><br>
   <img id="torchy" src="http://library.osu.edu/blogs/cartoons/files/2013/02/TorchyHeartbeats1.jpg"</img>
-  <br><br>
   <img id="figure1" src="https://i.pinimg.com/236x/71/2c/3f/712c3f3ddb96581cdc5a1162063cc0d1--vintage-black-glamour-vintage-comics.jpg"></img>
-  <br><br>
   <img id="figure2" src="http://1.bp.blogspot.com/_cr1FMICemSA/Sibi4TsnyVI/AAAAAAAABJs/jcUJkOIE8hk/s400/SLOJOCROW1800.jpg"></img>
-  <br><br>
-  <img id="figure3" src="https://www.biography.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Ch_406%2Cq_auto:good%2Cw_620/MTM2NTMzMDI3Mjk0NTUzNjk3/jackie-ormes-032jpg.jpg"></img>
-  <br><br>  
+  <img id="figure3" src="https://www.biography.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Ch_406%2Cq_auto:good%2Cw_620/MTM2NTMzMDI3Mjk0NTUzNjk3/jackie-ormes-032jpg.jpg"></img> 
   <img id="dressup" src="https://i.pinimg.com/originals/c4/51/4a/c4514aa02d74a6209f2a2985b584da8d.jpg"></img>
-  <br><br>
-  <p id="img-caption">Jackie Ormes drawing at her desk</p> 
+  
   
 </div>
 
