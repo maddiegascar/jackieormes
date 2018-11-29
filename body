@@ -142,7 +142,8 @@ a {
   
   <br>
   </div>
-  
+ 
+ /*
 <div id="img-div">
 
   <img id="jackie" src="https://static01.nyt.com/images/2008/03/30/books/wolk-600.jpg" alt=""></img>
@@ -161,6 +162,7 @@ a {
   
 </div>
 
+*/
 
 <br>
 
